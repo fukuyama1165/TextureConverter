@@ -31,6 +31,6 @@ int32_t main(int32_t argc,char* argv[])
 	converter.ConvertTextureWICToDDS(argv[kFilePath]);
 	
 
-	system("pause");
+	//system("pause");
 	return 0;
 }
